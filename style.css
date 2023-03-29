@@ -23,11 +23,54 @@ body {
 	padding: 10px;
 }
 
-#jogos {
-	background: #000;
+#home {
+	background: #FFC0CB;
 	padding: 10px;
 	opacity : 0.6;
 }
+
+#sobreaempresa {
+	background: #FFC0CB;
+	padding: 10px;
+	opacity : 0.6;
+}
+
+#endereco {
+	background: #FFC0CB;
+	padding: 10px;
+	opacity : 0.6;
+}
+
+#contato {
+	background: #FFC0CB;
+	padding: 10px;
+	opacity : 0.6;
+}
+
+#receitas {
+	background: #FFC0CB;
+	padding: 10px;
+	opacity : 0.6;
+}
+
+#videos {
+	background: #FFC0CB;
+	padding: 10px;
+	opacity : 0.6;
+}
+
+#vagas {
+	background: #FFC0CB;
+	padding: 10px;
+	opacity : 0.6;
+}
+
+#ajuda {
+	background: #FFC0CB;
+	padding: 10px;
+	opacity : 0.6;
+}
+
 #rodape {
 	text-align: center;
 	color: #FFFFFF;
